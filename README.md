@@ -1,4 +1,4 @@
-# 👩‍💻 김경미 기술 포트폴리오
+# 👩‍💻 김경미 | 백엔드 중심 풀스택 개발자
 
 > “기능 그 이상의 가치를 고민하는 개발자”  
 > Spring Boot · React · Node.js · MyBatis · JPA · SQL · AWS · Linux
@@ -32,13 +32,13 @@ kgm367@naver.com
 [github.com/xpcm0321](https://github.com/xpcm0321)
 
 **프로젝트 모음**
-[가온누리](https://github.com/xpcm0321/TeamProject)
-[HALO SNS](https://github.com/IN-P/HALO)
+[가온누리](https://github.com/xpcm0321/TeamProject) | 
+[HALO SNS](https://github.com/IN-P/HALO) | 
 [HALO_SHOP](https://github.com/joyulbi/HALO_SHOP)
 
 ## 📚 자격증
 
-> IT 실무 기반 자격 보유 – 문서, 프레젠테이션, 데이터 처리 역량 검증
+> **IT 실무 기반 자격 보유** – 문서, 프레젠테이션, 데이터 처리 역량 검증
 
 ![ITQ OA Master](https://img.shields.io/badge/ITQ_OA_Master-%ED%95%9C%EA%B5%AD%EC%83%9D%EC%82%B0%EC%84%B1%EB%B3%B8-lightgrey?logo=google-chrome&logoColor=blue)
 ![MOS 2016 Master](https://img.shields.io/badge/MOS_2016_Master-Microsoft-blue?logo=microsoft&logoColor=white)
@@ -67,47 +67,47 @@ kgm367@naver.com
     </tr>
     <tr>
       <td>Spring Mail API</td>
-      <td>이메일 인증/발송 자동화</td>
+      <td><strong>이메일 인증/발송 자동화</strong></td>
     </tr>
     <tr>
       <td rowspan="3"><b>Frontend</b></td>
       <td>React 18, Redux-Saga, React Router 6</td>
-      <td>SPA 설계, 상태 관리, 비동기 처리</td>
+      <td>SPA 설계, 상태 관리, <strong>비동기 처리</strong></td>
     </tr>
     <tr>
       <td>Styled-components 6, Ant Design 5</td>
-      <td>반응형 UI, 컴포넌트 스타일링</td>
+      <td><strong>반응형 UI</strong>, 컴포넌트 스타일링</td>
     </tr>
     <tr>
       <td>Axios, Form Validation</td>
-      <td>HTTP 통신, 사용자 입력 검증</td>
+      <td>HTTP 통신, <strong>사용자 입력 검증</strong></td>
     </tr>
     <tr>
       <td rowspan="2"><b>Database</b></td>
       <td>MySQL 8.x, ERD 설계</td>
-      <td>정규화, 외래키 설계, 데이터 무결성 보장</td>
+      <td>정규화, 외래키 설계, <strong>데이터 무결성 보장</strong></td>
     </tr>
     <tr>
       <td>SQL (ANSI + MySQL 확장)</td>
-      <td>DDL, DML, Join, Subquery, Commit/Rollback</td>
+      <td>DDL, DML, <strong>Join</strong>, <strong>Subquery</strong>, Commit/Rollback</td>
     </tr>
     <tr>
       <td rowspan="2"><b>Infra / DevOps</b></td>
       <td>AWS EC2, S3, Nginx 1.24</td>
-      <td>서버 및 정적 파일 배포, 무중단 배포</td>
+      <td><strong>서버 및 정적 파일 배포</strong>, 무중단 배포</td>
     </tr>
     <tr>
       <td>GitHub, Git Flow, ESLint, Prettier</td>
-      <td>협업 전략, 코드 품질 관리, 환경변수 관리</td>
+      <td>협업 전략, <strong>코드 품질 관리</strong>, 환경변수 관리</td>
     </tr>
     <tr>
       <td rowspan="2"><b>기타</b></td>
       <td>Django 5.2</td>
-      <td>CRUD 구현, models.py 기반 DB 연동, URL param 처리</td>
+      <td><strong>CRUD 구현</strong>, <strong>models.py 기반 DB 연동</strong>, URL param 처리</td>
     </tr>
     <tr>
       <td>Python 3.10</td>
-      <td>텍스트 분석, 로깅 처리, 조건 분기 로직 구현</td>
+      <td>텍스트 분석, 로깅 처리, <strong>조건 분기 로직 구현</strong></td>
     </tr>
   </tbody>
 </table>
@@ -149,7 +149,7 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 ## 📌 1차 프로젝트 – 가온누리
 
 - **인원/기간**: 4명 / 2025.04.10 ~ 2025.05.20  
-- **기술스택**: Java 11, Spring Boot 3.2, JPA (Hibernate 6), Spring Security 5, Thymeleaf 3, AWS EC2
+- **기술스택**: Java 11, Spring Boot 3.2, JPA (Hibernate 6), Spring Security 5, Thymeleaf 3
 
 ### 🎯 프로젝트 개요
 - **독후감 공유 기반 도서 추천** 커뮤니티 플랫폼
@@ -214,7 +214,7 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 - **해결**
   등록 로직을 `pages` 단일 진입점으로 통합하고 컴포넌트의 불필요 호출을 제거하여 요청을 단일화
 - **결과**
-  렌더링 수명주기와 호출 경로를 고려한 구조 설계의 중요성을 체득
+  렌더링 수명주기와 호출 경로를 고려한 구조 설계의 중요성을 체득<br />
   프론트 구조 정비만으로도 데이터 무결성과 유지보수성이 크게 향상됨
 
 ### 🤝 협업 및 소감
@@ -228,7 +228,7 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 ## 📌 3차 프로젝트 – HALO_SHOP
 
 - **인원/기간**: 6명 / 2025.06.18 ~ 2025.07.18  
-- **기술스택**: Java 11, Spring Boot 3.2, MyBatis 3, React 18, Kakao Map API, MySQL 8, AWS EC2/S3
+- **기술스택**: Java 11, Spring Boot 3.2, MyBatis 3, React 18, Kakao Map API, MySQL 8
 
 ### 🎯 프로젝트 개요
 - 야구 굿즈 쇼핑몰 + 경매 플랫폼  
@@ -247,7 +247,7 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 - **해결**
   삭제 순서를 `이미지 → 리뷰`로 재정비하고 트랜잭션 범위 내에서 일괄 처리하여 예외를 방지
 - **결과**
-  삭제 순서와 트랜잭션이 무결성 유지의 핵심임을 실무적으로 확인
+  삭제 순서와 트랜잭션이 무결성 유지의 핵심임을 실무적으로 확인<br />
   데이터 흐름 단위의 설계가 안정성을 좌우함
 
 ### 🤝 협업 및 소감
@@ -260,8 +260,8 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 
 ## 6. 💪 강점
 
-- 문제 해결 중심 사고력 (원인 분석 → 구조 개선)
-- UI/UX 설계 및 API 흐름에 강한 이해력
+- **문제 해결** 중심 사고력 (원인 분석 → 구조 개선)
+- **UI/UX 설계** 및 **API 흐름**에 강한 이해력
 - 협업 기반 소통, 문서화, 피드백 반영 능력 탁월
 
 ---
@@ -273,9 +273,9 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 - 기능 중심이 아닌 사용자 중심 개발
 
 ### ✅ 실무경험 강조
-- 실시간 시스템, 스케줄러, 트랜잭션 처리, 배포 및 인증까지 풀사이클 경험  
+- 실시간 시스템, 스케줄러, 트랜잭션 처리, 배포 및 인증까지 풀사이클 경험
 - 요구사항 정의부터 데이터 흐름 설계까지 참여
 
 ### ✅ 지속 학습 의지
-- SQL, Linux, AWS 인프라 운용 능력 내재화  
+- SQL, Linux, AWS 인프라 운용 능력 내재화
 - 최신 기술 트렌드 학습 및 기술 블로그 예정
