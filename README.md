@@ -31,10 +31,23 @@ kgm367@naver.com
 **Github**
 [github.com/xpcm0321](https://github.com/xpcm0321)
 
-**프로젝트 모음**
+**프로젝트 모음**<br />
+#### Github <br />
 [가온누리](https://github.com/xpcm0321/TeamProject) | 
 [HALO SNS](https://github.com/IN-P/HALO) | 
 [HALO_SHOP](https://github.com/joyulbi/HALO_SHOP)
+<br />
+
+#### Youtube <br />
+[가온누리](https://youtu.be/5lffT0DNLos) | 
+[HALO SNS](https://youtu.be/IQUpERx8q9A) | 
+[HALO_SHOP](https://youtu.be/wczQd2duVVQ)
+<br />
+
+#### PPT <br />
+[가온누리](https://www.canva.com/design/DAGloWvHsP4/8h46aEslUAnyokPI_-G3Qw/edit) | 
+[HALO SNS](https://www.canva.com/design/DAGug3TmTk8/e_tbkiAoD914Opz-EnsdfQ/edit) | 
+[HALO_SHOP](https://www.canva.com/design/DAGugwoA2_I/9dosk4GWkyPZSwKhHL-B6A/edit)
 
 ## 📚 자격증
 
