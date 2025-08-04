@@ -149,11 +149,16 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 ## 📌 1차 프로젝트 – 가온누리
 
 - **인원/기간**: 4명 / 2025.04.10 ~ 2025.05.20  
-- **기술스택**: Spring Boot, JPA, Spring Security, Thymeleaf, AWS
+- **기술스택**: Java 11, Spring Boot 3.2, JPA (Hibernate 6), Spring Security 5, Thymeleaf 3, AWS EC2
 
 ### 🎯 프로젝트 개요
-- 독후감 공유 기반 도서 추천 커뮤니티 플랫폼
-- 도서 자동 수집 스케줄러, 리뷰 CRUD, OAuth2 로그인 기능 구현
+- **독후감 공유 기반 도서 추천** 커뮤니티 플랫폼
+- **도서 자동 수집 스케줄러**, 리뷰 CRUD, OAuth2 로그인 기능 구현
+
+### ✅ 핵심 성과
+- **OAuth2 기반 인증 시스템 구현** → 사용자 정보 보호 및 확장성 확보
+- **Spring Scheduler + Open API** → 자동화된 도서 수집 시스템 구축
+- **ERD 재설계 및 JPA 매핑 개선** → 데이터 무결성 및 성능 향상
 
 ### 🧩 트러블슈팅 사례
 **도서 자동 등록**
@@ -189,11 +194,16 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 ## 📌 2차 프로젝트 – HALO SNS
 
 - **인원/기간**: 6명 / 2025.05.14 ~ 2025.06.17  
-- **기술스택**: Node.js, React, KakaoPay, WebSocket
+- **기술스택**: Node.js 18, React 18, WebSocket, KakaoPay API
 
 ### 🎯 프로젝트 개요
 - 야구 팬 대상 SNS 커뮤니티 및 인터랙션 중심 구조  
 - 실시간 채팅, 퀴즈/뽑기 게임화 기능, 멤버십/관리자 기능 구현
+
+### ✅ 핵심 성과
+- **실시간 채팅 구현** → WebSocket 기반 비동기 통신 설계
+- **DB 중복 등록 문제 해결** → 로직 개선 및 트랜잭션 처리 강화
+- **컴포넌트 구조 최적화** → 렌더링 성능 개선 및 유지보수 용이
 
 ### 🧩 트러블슈팅 사례
 **DB 중복 등록 오류**
@@ -218,11 +228,15 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 ## 📌 3차 프로젝트 – HALO_SHOP
 
 - **인원/기간**: 6명 / 2025.06.18 ~ 2025.07.18  
-- **기술스택**: Spring Boot, MyBatis, React, Kakao Map API
+- **기술스택**: Java 11, Spring Boot 3.2, MyBatis 3, React 18, Kakao Map API, MySQL 8, AWS EC2/S3
 
 ### 🎯 프로젝트 개요
 - 야구 굿즈 쇼핑몰 + 경매 플랫폼  
 - 배송 상태 트래킹, 리뷰 포인트 시스템, 카카오맵 배송지 등록
+
+### ✅ 핵심 성과
+- **리뷰 삭제 시 500 에러 해결** → 트랜잭션 순서 및 예외 처리 개선
+- **DB 설계 오류 해결** → ERD 재설계 및 관계 명확화
 
 ### 🧩 트러블슈팅 사례
 **리뷰 삭제 시 500 에러**
