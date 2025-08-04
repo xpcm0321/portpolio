@@ -36,6 +36,13 @@ kgm367@naver.com
 [HALO SNS](https://github.com/IN-P/HALO)
 [HALO_SHOP](https://github.com/joyulbi/HALO_SHOP)
 
+## 📚 자격증
+
+> IT 실무 기반 자격 보유 – 문서, 프레젠테이션, 데이터 처리 역량 검증
+
+![ITQ OA Master](https://img.shields.io/badge/ITQ_OA_Master-%ED%95%9C%EA%B5%AD%EC%83%9D%EC%82%B0%EC%84%B1%EB%B3%B8-lightgrey?logo=google-chrome&logoColor=blue)
+![MOS 2016 Master](https://img.shields.io/badge/MOS_2016_Master-Microsoft-blue?logo=microsoft&logoColor=white)
+
 ---
 
 ## 3. 🔧 기술역량
@@ -44,19 +51,19 @@ kgm367@naver.com
   <thead>
     <tr>
       <th>분야</th>
-      <th>기술 스택</th>
+      <th>기술 스택 (버전)</th>
       <th>상세 내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="3"><b>Backend</b></td>
-      <td>Java, Spring Boot, Spring Security</td>
-      <td>REST API 설계, JWT 인증, OAuth2 로그인, 트랜잭션 처리, AOP, Scheduler</td>
+      <td>Java 17, Spring Boot 3.x, Spring Security 6</td>
+      <td><strong>REST API 설계</strong>, JWT 인증, OAuth2 로그인, <strong>트랜잭션 처리</strong>, AOP, <strong>Scheduler</strong></td>
     </tr>
     <tr>
-      <td>JPA, MyBatis</td>
-      <td>ORM 매핑, 복잡한 JOIN/Subquery 처리, CRUD, DB 무결성 유지</td>
+      <td>JPA (Hibernate 6), MyBatis 3</td>
+      <td>ORM 매핑, <strong>복잡한 JOIN/Subquery 처리</strong>, CRUD, <strong>DB 무결성 유지</strong></td>
     </tr>
     <tr>
       <td>Spring Mail API</td>
@@ -64,11 +71,11 @@ kgm367@naver.com
     </tr>
     <tr>
       <td rowspan="3"><b>Frontend</b></td>
-      <td>React, Redux-Saga, React Router</td>
+      <td>React 18, Redux-Saga, React Router 6</td>
       <td>SPA 설계, 상태 관리, 비동기 처리</td>
     </tr>
     <tr>
-      <td>Styled-components, Ant Design</td>
+      <td>Styled-components 6, Ant Design 5</td>
       <td>반응형 UI, 컴포넌트 스타일링</td>
     </tr>
     <tr>
@@ -77,16 +84,16 @@ kgm367@naver.com
     </tr>
     <tr>
       <td rowspan="2"><b>Database</b></td>
-      <td>MySQL, ERD 설계</td>
+      <td>MySQL 8.x, ERD 설계</td>
       <td>정규화, 외래키 설계, 데이터 무결성 보장</td>
     </tr>
     <tr>
-      <td>SQL</td>
+      <td>SQL (ANSI + MySQL 확장)</td>
       <td>DDL, DML, Join, Subquery, Commit/Rollback</td>
     </tr>
     <tr>
       <td rowspan="2"><b>Infra / DevOps</b></td>
-      <td>AWS EC2, S3, Nginx</td>
+      <td>AWS EC2, S3, Nginx 1.24</td>
       <td>서버 및 정적 파일 배포, 무중단 배포</td>
     </tr>
     <tr>
@@ -95,20 +102,33 @@ kgm367@naver.com
     </tr>
     <tr>
       <td rowspan="2"><b>기타</b></td>
-      <td>Django</td>
+      <td>Django 5.2</td>
       <td>CRUD 구현, models.py 기반 DB 연동, URL param 처리</td>
     </tr>
     <tr>
-      <td>Python</td>
+      <td>Python 3.10</td>
       <td>텍스트 분석, 로깅 처리, 조건 분기 로직 구현</td>
     </tr>
   </tbody>
 </table>
 
+---
+
+## 4. 🎓 교육 이력
+
+| 기간 | 교육기관 | 과정/전공 | 구분 |
+|------|------------|----------|------|
+| 2025.02 ~ 2025.08 | 더조은컴퓨터아카데미 | [취업기업확대]AI활용 풀스택(프론트엔드,백엔드)<br/>부트캠프(자바,파이썬,플러터) | 수료 |
+| 2022.03 ~ 2025.08 | 한양여자대학교 | 스마트IT과 | 졸업예정 |
+| 2019.03 ~ 2022.02 | 인천비즈니스고등학교 | 스마트IT과 | 졸업 |
+
+- 프론트: HTML/CSS/JS, React, Flutter
+- 백엔드: Java(Spring), Django, MySQL, REST API
+- 협업: Git, CI/CD, 실무형 프로젝트 다수
 
 ---
 
-## 4. 📑 포트폴리오 기술보고서
+## 5. 📑 포트폴리오 기술보고서
 
 ### ▷ 지원분야  
 웹/앱 풀스택 개발자
@@ -224,25 +244,11 @@ Java, Spring Boot, React, MyBatis, JPA, Node.js, Django, SQL, AWS
 
 ---
 
-## 5. 💪 강점
+## 6. 💪 강점
 
 - 문제 해결 중심 사고력 (원인 분석 → 구조 개선)
 - UI/UX 설계 및 API 흐름에 강한 이해력
 - 협업 기반 소통, 문서화, 피드백 반영 능력 탁월
-
----
-
-## 6. 🎓 교육 이력
-
-| 기간 | 교육기관 | 과정/전공 | 구분 |
-|------|------------|----------|------|
-| 2025.02 ~ 2025.08 | 더조은컴퓨터아카데미 | [취업기업확대]AI활용 풀스택(프론트엔드,백엔드)<br/>부트캠프(자바,파이썬,플러터) | 수료 |
-| 2022.03 ~ 2025.08 | 한양여자대학교 | 스마트 IT과 | 졸업예정 |
-| 2019.03 ~ 2022.02 | 인천비즈니스고등학교 | 스마트 IT과 | 졸업 |
-
-- 프론트: HTML/CSS/JS, React, Flutter
-- 백엔드: Java(Spring), Django, MySQL, REST API
-- 협업: Git, CI/CD, 실무형 프로젝트 다수
 
 ---
 
