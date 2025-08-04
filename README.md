@@ -31,7 +31,7 @@ kgm367@naver.com
 **Github**
 [github.com/xpcm0321](https://github.com/xpcm0321)
 
-**프로젝트 모음**<br />
+### 프로젝트 모음
 #### Github <br />
 [가온누리](https://github.com/xpcm0321/TeamProject) | 
 [HALO SNS](https://github.com/IN-P/HALO) | 
